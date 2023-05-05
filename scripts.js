@@ -8,11 +8,8 @@ const alternarTemaBtn = document.querySelector("#alternarTema");
 const textos = [
   "Exemplo de texto para digitar",
   "Digite isso",
-  "A provação vem, não só para testar o nosso valor, mas para aumentá-lo; o carvalho não é apenas testado, mas enrijecido pelas tempestades",
-  "Sempre antes de realizar um sonho, a Alma do Mundo resolve testar tudo aquilo que foi aprendido na caminhada",
-  "Se você quer testar sua memória, tente se lembrar hoje sobre o que você estava preocupado há um ano atrás",
-  "Se não estabelecermos prioridades, alguém fará isso por nós.",
-  "Quando realmente temos clareza de propósito, conseguimos ter sucesso nas iniciativas.",
+  "Isso é ser feliz.",
+  "Não vejo, sem pensar."
 ];
 
 function novoTexto() {
